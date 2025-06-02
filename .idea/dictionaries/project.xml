@@ -8,10 +8,12 @@
       <w>postgre</w>
       <w>shadcn</w>
       <w>supabase</w>
+      <w>trpc</w>
       <w>upstash</w>
       <w>vapi</w>
       <w>verba</w>
       <w>videokit</w>
+      <w>webmanifest</w>
     </words>
   </dictionary>
 </component>
